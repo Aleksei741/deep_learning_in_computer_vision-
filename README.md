@@ -1,1 +1,3 @@
-# deep_learning_in_computer_vision-
+# deep_learning_in_computer_vision
+
+Глубокое обучение в компьютерном зрении.
